@@ -7,7 +7,7 @@ package Tugas3;
  */
 public class Main {
 
-    /** aku
+    /** ok bisa
      * Method utama dari program.
      *
      * @param args argumen saat menjalankan program
